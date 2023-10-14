@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "555252388716",
+    "project_id": "chatapp-efd4f",
+    "storage_bucket": "chatapp-efd4f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555252388716:android:44a7bad2f498f1b365d949",
+        "android_client_info": {
+          "package_name": "com.hemant.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "555252388716-ahgsqq4n8k63d69pojruvo7hon8mp7ba.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA571SCOSktOQOc5ni-LdG8sFsjIrs3Zc0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "555252388716-ahgsqq4n8k63d69pojruvo7hon8mp7ba.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
